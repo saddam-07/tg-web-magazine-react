@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tg-web-magazine-react/static/css/main.c8f5f594.css",
+    "main.js": "/tg-web-magazine-react/static/js/main.c8da6853.js",
+    "index.html": "/tg-web-magazine-react/index.html",
+    "main.c8f5f594.css.map": "/tg-web-magazine-react/static/css/main.c8f5f594.css.map",
+    "main.c8da6853.js.map": "/tg-web-magazine-react/static/js/main.c8da6853.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8f5f594.css",
+    "static/js/main.c8da6853.js"
+  ]
+}
