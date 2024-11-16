@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tg-web-magazine-react/static/css/main.a3b03f59.css",
-    "main.js": "/tg-web-magazine-react/static/js/main.5138d67b.js",
+    "main.css": "/tg-web-magazine-react/static/css/main.f35d62a1.css",
+    "main.js": "/tg-web-magazine-react/static/js/main.0097cf53.js",
     "index.html": "/tg-web-magazine-react/index.html",
-    "main.a3b03f59.css.map": "/tg-web-magazine-react/static/css/main.a3b03f59.css.map",
-    "main.5138d67b.js.map": "/tg-web-magazine-react/static/js/main.5138d67b.js.map"
+    "main.f35d62a1.css.map": "/tg-web-magazine-react/static/css/main.f35d62a1.css.map",
+    "main.0097cf53.js.map": "/tg-web-magazine-react/static/js/main.0097cf53.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3b03f59.css",
-    "static/js/main.5138d67b.js"
+    "static/css/main.f35d62a1.css",
+    "static/js/main.0097cf53.js"
   ]
 }
